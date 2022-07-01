@@ -29,3 +29,4 @@ I brainstormed possible modifications that could be made to the project and sett
 
 I focused on shifting the program from requiring a manual trigger to running on its own, devoid of human interaction. PReviously, the program would be triggered when the user pressed the "Enter" key. To mimic a "live feed", this trigger was replaced with a delay of 2 seconds. The program takes an image and retakes it shortly after comparing the faces in the previous image with the target face.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V2SAfn3KXy4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
