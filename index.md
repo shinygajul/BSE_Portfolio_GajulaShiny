@@ -20,6 +20,12 @@ The first week focused on installing VNC, Putty, Visual Studio Code, and Raspber
 
 # Second Milestone
 
-PARAGRAPH STUFF
+I brainstormed possible modifications that could be made to the project and settled on a Missing Person project. A program would consistently monitor the Raspberry Pi Camera feed to identify a target and output an image with a rectangle around the target's face. Dlib and OpenCV were implemented for facial recognition purposes, as the dlib is responsible for mapping out the coordinates of facial points and the OpenCV draws the rectangles around the faces that match the target face. The target face is saved in a folder and when "Enter" is pressed, the program takes a picture and identifies the faces in it and compares it with the target. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F4LTIHj898g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+# Third Milestone
+
+I focused on shifting the program from requiring a manual trigger to running on its own, devoid of human interaction. PReviously, the program would be triggered when the user pressed the "Enter" key. To mimic a "live feed", this trigger was replaced with a delay of 2 seconds. The program takes an image and retakes it shortly after comparing the faces in the previous image with the target face.
+
