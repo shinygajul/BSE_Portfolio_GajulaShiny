@@ -1,9 +1,9 @@
 ﻿Raspberry Pi Object Detection
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+Software Program that helps find missing people using facial recognition. Utilizes Raspberry Pi and camera to detect target face using live camera feed and compares it with database. If target face detected, notification alerts user. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Srisukanya Gajula | Dublin High School | Electrical Engineering | Incoming Senior
+| Srisukanya Gajula | Dublin High School | Electrical Engineering | Senior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
