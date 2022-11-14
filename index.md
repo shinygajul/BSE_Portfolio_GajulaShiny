@@ -3,7 +3,7 @@ Software Program that helps find missing people using facial recognition. Utiliz
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Srisukanya Gajula | Dublin High School | Electrical Engineering | Senior
+| Srisukanya Gajula | Dublin High School | Electrical Engineering and Computer Science | Senior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
